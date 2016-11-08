@@ -1,0 +1,25 @@
+﻿{
+  "file": [
+    {
+      "picture": "pet1.jpg"
+    },
+    {
+      "picture": "pet2.jpg"
+    },
+    {
+
+      "picture": "pet3.jpg"
+    },
+    {
+      "picture": "pet4.jpg"
+    },
+    {
+      "picture": "cat5.jpg"
+    }
+  ],
+  "Interval": [
+    {
+      "interval":"5000"
+    }
+  ]
+}
